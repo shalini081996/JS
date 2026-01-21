@@ -8,3 +8,5 @@ problem2 - For Input "bbabcd" output should be "2b1a1b1c1d" and if same characte
 problem 3 - Find second largest number using one loop. - [2,4,5,6,1,10]
 
 problem 4 - fibonacci series
+
+problem 5 -  Create counter using closure
